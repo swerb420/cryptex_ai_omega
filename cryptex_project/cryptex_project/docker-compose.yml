@@ -1,5 +1,4 @@
-summary: Auto-fixed flow
-version: 1
+version: "3.9"
 
 services:
   postgres:
